@@ -20,10 +20,10 @@ Hosting is a public shoebox to store Website Files (1) in. It is necessary to ha
 
 The domain name is the label on your Hosting (3) shoe box. It allows people to find your website from their Web Browser (2). You have undoubtably run into many Domain Names. google.com, yahoo.com, facebook.com are all examples of a Domain Name. Most people choose a Domain Name that is similar to their business name.
 
-### What We Provide
+## What We Provide
 
-We provide the specialized Website Files described in (1), creating a small business website: standard 5-page static websites. Static meaning that the content text does not change often. After a template is created, business text, pictures, and content is placed within it. Once done we put it on the Hosting (3) purchased by the business / person.
+We provide the specialized Website Files described in (1), creating a small business website: standard 5-page static websites (static meaning that the content text is not supposed to change often). After a template design is created, business text, pictures, and content is placed within it. Once done we put it on the server Hosting (3) purchased by the business / person.
 
-### What You Need
+## What You Need
 
 You need to get Hosting (3), and a Domain Name (4). A virtual shoebox with a name. Luckily these are cheap (around 5$ /mo for both). The preferred hosting / domain company is HostGator (hostgator.com). They provide very cheap and easy plans. You will sign up for a plan with a domain name on your own and provide us access to your control panel. We can set up the rest from there. The browser (2) is already covered by your visitors.
