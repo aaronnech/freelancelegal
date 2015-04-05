@@ -2,7 +2,7 @@
 
 In simple terms, there are four main components to the website you are seeing on your computer: website files, a web browser, hosting, and domain name. This document will put these into simple terms for a non-technical audience.
 
-![alt text](https://github.com/aaronnech/freelance/raw/master/diagram.png "Figure 1")
+![alt text](https://github.com/aaronnech/freelancelegal/raw/master/diagram.png "Figure 1")
 
 ### 1 Website Files
 
