@@ -4,19 +4,19 @@ In simple terms, there are four main components to the website you are seeing on
 
 ![alt text](https://github.com/aaronnech/freelancelegal/raw/master/diagram.png "Figure 1")
 
-### 1 Website Files
+### (1) Website Files
 
 A website is a collection of computer files that describe what you see. Just like how a Word Document computer file describes things like essays or flyers. Construction of website computer files is not easy. It requires advanced technical knowledge of many website technologies and programming languages. This is the "hard part," and is the service we are providing.
 
-### 2 The Web Browser
+### (2) The Web Browser
 
 The web browser is a computer program that displays a Website Files (1) to humans (that's you). In a way, it is the translator from the cryptic Website Files (1) to your computer screen. There are many of these programs. Popular ones include Internet Explore(IE), Google Chrome, and Mozilla Firefox.
 
-### 3 Hosting
+### (3) Hosting
 
 Hosting is a public shoebox to store Website Files (1) in. It is necessary to have one for everyone to access your Website Files (1) and view them with their Web Browser (2). Just like how you put pictures in a photo album to show your family, you put Website Files in Hosting to show the world your website.
 
-### 4 Domain Name
+### (4) Domain Name
 
 The domain name is the label on your Hosting (3) shoe box. It allows people to find your website from their Web Browser (2). You have undoubtably run into many Domain Names. google.com, yahoo.com, facebook.com are all examples of a Domain Name. Most people choose a Domain Name that is similar to their business name.
 
