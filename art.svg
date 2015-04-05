@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +54,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4465">
+       id="g4465"
+       inkscape:export-filename="/home/aaron/Dropbox/Work/freelance/diagram.png"
+       inkscape:export-xdpi="111.13264"
+       inkscape:export-ydpi="111.13264">
       <g
          transform="matrix(0.59385045,0,0,0.59385045,-27.093665,194.45874)"
          id="g3017">
